@@ -1,5 +1,5 @@
 ![MasterHead](https://masterstrokemedia.in/wp-content/uploads/2021/10/websitew.gif)
-<h1 align="center">Hi People. Welcome To Sohail's Github.👋</h1>
+<h1 align="center">Hi People. 👋 I am Sohail</h1>
 <h3 align="center">A passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
