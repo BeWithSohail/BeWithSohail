@@ -1,13 +1,12 @@
-![MasterHead](https://masterstrokemedia.in/wp-content/uploads/2021/10/websitew.gif)
+<img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width=100%>
 <h1 align="center">Hi People. 👋 I am Sohail</h1>
-<h3 align="center">A passionate Full Stack Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
+<h3 align="justify">A passionate Frontend Software Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with HTML / CSS / BootStrap/ JavaScript / Reactjs and some other cool libraries and frameworks.</h3>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bewithsohail&label=Profile%20views&color=0e75b6&style=flat" alt="bewithsohail" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@its_sohailalam" target="blank"><img src="https://img.shields.io/twitter/follow/@its_sohailalam?logo=twitter&style=for-the-badge" alt="@its_sohailalam" /></a> </p>
+<br />
 
-- 🔭 I’m currently working on [couchbase](https://www.couchbase.com/)
+- 🔭 I’m currently working on [Algoworks](https://www.algoworks.com/)
 
 - 🌱 I’m currently learning **NodeJS,NextJS,ExpressJS**
 
