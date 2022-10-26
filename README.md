@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@its_sohailalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_sohailalam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sohail-alam-547513243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sohail-alam-547513243/" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/sohailalam6027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/sohailalam6027" height="30" width="40" /></a>
-<a href="https://instagram.com/sohailalam6027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohailalam6027" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sohail-alam-547513243/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/md-sohail-alam-547513243/" height="40" width="40" /></a>
+<a href="https://twitter.com/@its_sohailalam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_sohailalam" height="40" width="40" /></a>
+<a href="https://fb.com/facebook.com/sohailalam6027" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" alt="facebook.com/sohailalam6027" height="40" width="40" /></a>
+<a href="https://instagram.com/sohailalam6027" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohailalam6027" height="40" width="40" /></a>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
