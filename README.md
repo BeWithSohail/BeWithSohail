@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Algoworks](https://www.algoworks.com/)
 
-- 🌱 I’m currently learning **NodeJS,NextJS,ExpressJS**
+- 🌱 I’m currently learning **NodeJS,Python,Go **
 
 - 👨‍💻 All of my projects are available at [https://sohail.dev/](https://sohail.dev/)
 
-- 💬 Ask me about **HTML, CSS, JS, REACT JS , TS...**
+- 💬 Ask me about **HTML,CSS,JS,ES6,TS,REACT,MongoDB,**
 
 - 📫 How to reach me **sohailalam6027@gmail.com**
 
