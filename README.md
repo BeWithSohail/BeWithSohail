@@ -1,18 +1,17 @@
-<img src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" align="center" width=100%>
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" align="center" width=100%>
 <h1 align="center">Hi People. 👋 I am Sohail</h1>
-<h3 align="justify">A passionate Frontend Software Developer 🚀 having a special interest in Frontend technologies. And Frontend Developer @Algoworks PVT. LTD having 6+Yrs of Experience HTML5 / XML / CSS / Bootstrap / JavaScript / ES6 / TS / AJAX / JSON / React JS / Redux / MySQL / MongoDB / API Integration / jQuery/jQueryUI / Tailwind / Bulma / SASS/LESS</h3>
+<h3 align="justify">A passionate Frontend Developer 🚀 having 5+ Yrs of working Experience and special interest in Frontend technologies and experience of building Web applications with JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.</h3>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
 
 <br />
 
-- 🔭 I’m currently working on [Algoworks](https://www.algoworks.com/)
 
-- 🌱 I’m currently learning **NodeJS,Python,Go **
+- 🔭 I’m currently working on [eyemyeye](https://www.eyemyeye.com/)
 
 - 👨‍💻 All of my projects are available at [https://sohail.dev/](https://sohail.dev/)
 
-- 💬 Ask me about **HTML,CSS,JS,ES6,TS,REACT,MongoDB,**
+- 💬 Ask me about **JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.**
 
 - 📫 How to reach me **sohailalam6027@gmail.com**
 
