@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sohailalam6027@gmail.com**
 
-- 📄 Know about my experiences [https://sohail.dev/](https://sohail.dev/)
+- 📄 Know about my experiences (bewithsohail.netlify.app)
 
 - ⚡ Fun fact **Programming isn't about what you know; it's about what you can figure out. 👨‍💻**
 
