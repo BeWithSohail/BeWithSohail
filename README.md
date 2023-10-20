@@ -4,7 +4,8 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
 <br />
-- 🔭 I’m currently working with [eyemyeye.com](https://www.eyemyeye.com/)
+<p> - 🔭 I’m currently working with eyemyeye.com <a href="https://www.eyemyeye.com/"> </a>https://www.eyemyeye.com/ </a> </p>
+
 - 👨‍💻 All of my projects are available at. <a href="https://bewithsohail.netlify.app/" target="_blank">  </a>
 - 💬 Ask me about **JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.**
 - 📫 How to reach me **sohailalam6027@gmail.com**
