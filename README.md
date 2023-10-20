@@ -7,9 +7,9 @@
 <br />
 
 
-- 🔭 I’m currently working on [eyemyeye](https://www.eyemyeye.com/)
+- 🔭 I’m currently working on [eyemyeye.com](https://www.eyemyeye.com/)
 
-- 👨‍💻 All of my projects are available at [https://sohail.dev/](https://sohail.dev/)
+- 👨‍💻 All of my projects are available at. https://bewithsohail.netlify.app/
 
 - 💬 Ask me about **JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.**
 
