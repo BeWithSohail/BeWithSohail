@@ -4,13 +4,14 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
 <br />
-<p> - 🔭 I’m currently working with eyemyeye.com <a href="https://www.eyemyeye.com/"> </a>https://www.eyemyeye.com/ </a> </p>
+<p> 🔭 I’m currently working with eyemyeye.com <a href="https://www.eyemyeye.com/"> </a>https://www.eyemyeye.com/ </a> </p>
 
-- 👨‍💻 All of my projects are available at. <a href="https://bewithsohail.netlify.app/" target="_blank">  </a>
-- 💬 Ask me about **JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.**
-- 📫 How to reach me **sohailalam6027@gmail.com**
-- 📄 Know about my experiences (bewithsohail.netlify.app)
-- ⚡ Fun fact **Programming isn't about what you know; it's about what you can figure out. 👨‍💻**
+<p>👨‍💻 All of my projects are available at. <a href="https://bewithsohail.netlify.app/" target="_blank"> https://bewithsohail.netlify.app/ </a> </p>
+<p> 💬 Ask me about **JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.** </p>
+<p> 📫 How to reach me <a href="sohailalam6027@gmail.com"> **sohailalam6027@gmail.com </a> </p>
+<p>📄 Know about my experiences <a href="https://bewithsohail.netlify.app/" target="_blank"> bewithsohail.netlify.app </a> </p>
+<p> ⚡ Fun fact **Programming isn't about what you know; it's about what you can figure out. 👨‍💻
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://www.linkedin.com/in/md-sohail-alam-547513243/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/md-sohail-alam-547513243/" height="20" width="20" /></a>
