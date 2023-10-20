@@ -1,3 +1,9 @@
+<style>
+.markdown-body img{
+    height:300px;
+    object-fit:contain;
+}
+</style>
 <img src="https://bewithsohail.netlify.app/assets/img/profile2.jpg" align="center" width=100%>
 <h3 align="center">Hi People. I am Sohail</h3>
 <h6 align="justify">A passionate Frontend Developer 🚀 having 5+ Yrs of working Experience and special interest in Frontend technologies and experience of building Web applications with JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.</h6>
