@@ -1,4 +1,4 @@
-<img src="https://bewithsohail.netlify.app/assets/img/md_sohail_alam.jpg" height="300" align="center" width=100% style="object-fit:contain;">
+<img src="https://bewithsohail.netlify.app/assets/img/md_sohail_alam.jpg" height="300" align="center" width=100% style="object-fit: contain;">
 <h3 align="center">Hi People. I am Sohail</h3>
 <h6 align="justify">A passionate Frontend Developer 🚀 having 5+ Yrs of working Experience and special interest in Frontend technologies and experience of building Web applications with JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.</h6>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
