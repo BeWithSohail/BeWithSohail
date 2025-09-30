@@ -20,7 +20,182 @@
    <a href="https://instagram.com/sohailalam6027" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohailalam6027" height="20" width="20" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="20" height="20"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="20" height="20"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="20" height="20"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="20" height="20"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="20" height="20"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="20" height="20"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="20" height="20"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> 
-   <a href="https://www.ecma-international.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wingsuitist/ecmascript-logo/master/es-ecmascript-logo.png" alt="sass" width="20" height="20"/> </a> 
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bewithsohail&show_icons=true&locale=en" alt="bewithsohail" /></p>
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
+
+   <!-- Core Frontend -->
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+         width="30" height="30" alt="HTML5" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+         width="30" height="30" alt="CSS3" />
+   </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+      rel="noreferrer">
+      <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         width="30" height="30" alt="JavaScript" />
+   </a>
+   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+         width="30" height="30" alt="TypeScript" />
+   </a>
+   <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+         width="30" height="30" alt="React" />
+   </a>
+   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+         width="30" height="30" alt="Redux" />
+   </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+         width="30" height="30" alt="Next.js" />
+   </a>
+   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+         width="30" height="30" alt="Vue.js" />
+   </a>
+   <a href="https://angular.io/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+         width="30" height="30" alt="Angular" />
+   </a>
+
+   <!-- Styling -->
+   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="30" height="30" alt="Tailwind CSS" />
+   </a>
+   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+         width="30" height="30" alt="Bootstrap" />
+   </a>
+   <a href="https://bulma.io/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="30"
+         height="30" alt="Bulma" />
+   </a>
+   <a href="https://mui.com/" target="_blank" rel="noreferrer">
+      <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+         width="30" height="30" alt="Material UI" />
+   </a>
+
+
+   <!-- Backend & Database -->
+   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+         width="30" height="30" alt="Node.js" />
+   </a>
+   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+         width="30" height="30" alt="Express.js" />
+   </a>
+
+   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+         width="30" height="30" alt="FastAPI" />
+   </a>
+
+   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+         width="30" height="30" alt="MongoDB" />
+   </a>
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+         width="30" height="30" alt="MySQL" />
+   </a>
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+         width="30" height="30" alt="PostgreSQL" />
+   </a>
+   <a href="https://redis.io/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+         width="30" height="30" alt="Redis" />
+   </a>
+
+   <!-- Tools & DevOps -->
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+         width="30" height="30" alt="Docker" />
+   </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"
+         height="30" alt="Git" />
+   </a>
+   <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="30" height="30" alt="GitHub" />
+   </a>
+   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"
+         width="30" height="30" alt="GitLab" />
+   </a>
+   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg"
+         width="30" height="30" alt="Bitbucket" />
+   </a>
+   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+         width="30" height="30" alt="Jira" />
+   </a>
+
+   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=vite" width="30" height="30" alt="Vite" />
+   </a>
+   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+         width="30" height="30" alt="NPM" />
+   </a>
+   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+         width="30" height="30" alt="GraphQL" />
+   </a>
+
+
+   <!-- Cloud & Deployment -->
+   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=aws" width="30" height="30" alt="AWS" />
+   </a>
+   <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=azure" width="30" height="30" alt="Azure" />
+   </a>
+   <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=heroku" width="30" height="30" alt="Heroku" />
+   </a>
+   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=netlify" width="30" height="30" alt="Netlify" />
+   </a>
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=vercel" width="30" height="30" alt="Vercel" />
+   </a>
+
+   <!-- Design & Tools -->
+   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"
+         width="30" height="30" alt="Photoshop" />
+   </a>
+   <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer">
+      <img
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+         width="30" height="30" alt="Illustrator" />
+   </a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+         width="30" height="30" alt="Figma" />
+   </a>
+   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+         width="30" height="30" alt="Canva" />
+   </a>
+   <a href="https://developer.chrome.com/docs/devtools/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+         width="30" height="30" alt="Chrome DevTools" />
+   </a>
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"
+         height="30" alt="Postman" />
+   </a>
+</div>
