@@ -4,11 +4,37 @@
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
 <br />
-<p> 🔭 I’m currently working with eyemyeye.com <a href="https://www.eyemyeye.com/"> https://www.eyemyeye.com/ </a> </p>
+<p> 🔭 I’m currently working at <b> Infogain  </b>  <br> driving innovation and crafting seamless digital experiences.</p>
 
-<p>👨‍💻 All of my projects are available at. <a href="https://bewithsohail.netlify.app/" target="_blank"> https://bewithsohail.netlify.app/ </a> </p>
-<p> 💬 Ask me about **JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.** </p>
-<p> 📫 How to reach me <a href="mailto:sohailalam6027@gmail.com"> sohailalam6027@gmail.com </a> </p>
+<p>👨‍💻 Check out all of my projects here 👉 <a href="https://bewithsohail.netlify.app/" target="_blank"> https://bewithsohail.netlify.app/ </a> </p>
+<p> 💻 Frontend / UI Developer | 6+ Years Experience
+⚡ Skilled in building responsive, high-performance, and scalable web applications.
+
+<strong> Tech Stack & Skills: </strong>
+
+<b> Languages & Frameworks:  </b> JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit, GraphQL
+
+<b> Frontend Development: </b> HTML5, CSS3, SASS/LESS, Bootstrap, Tailwind CSS, Material UI, Chakra UI
+
+<b> Backend & Databases: </b> Node.js, MongoDB, SQL, PostgreSQL
+
+<b>Other Expertise: </b> SEO Optimization, Performance Tuning, UI/UX Best Practices</p>
+
+<h3>✉️ How to reach me</h3>
+<ul style="list-style: none; padding: 0; margin: 0;">
+  <li>
+    <a href="mailto:sohailalam6027@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" height="20" alt="Email" />
+      &nbsp;sohailalam6027@gmail.com
+    </a>
+  </li>
+  <li>
+    <a href="tel:+919990275154" target="_blank" style="text-decoration: none; color: inherit;">
+      📱 &nbsp; +91 99902 75154
+    </a>
+  </li>
+</ul>
+
 <p>📄 Know about my experiences <a href="https://bewithsohail.netlify.app/" target="_blank"> bewithsohail.netlify.app </a> </p>
 <p> ⚡ Fun fact about Programming isn't about what you know; it's about what you can figure out. 👨‍💻
 </p>
