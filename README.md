@@ -14,7 +14,7 @@ Passionate about clean, maintainable code, optimized performance, responsive des
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
 <br />
-<p> 🔭 I’m currently working at <b> Infogain  </b>  <br> driving innovation and crafting seamless digital experiences.</p>
+<p> 🔭 I’m currently working at <b> Infogain India </b>  <br> driving innovation and crafting seamless digital experiences.</p>
 
 <p>👨‍💻 Check out all of my projects here 👉 <a href="https://bewithsohail.netlify.app/" target="_blank"> https://bewithsohail.netlify.app/ </a> </p>
 <p> 💻 Frontend / UI Developer | 6+ Years Experience
