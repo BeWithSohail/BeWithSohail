@@ -13,16 +13,25 @@
 <p> ⚡ Fun fact about Programming isn't about what you know; it's about what you can figure out. 👨‍💻
 </p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://www.linkedin.com/in/md-sohail-alam-547513243/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="https://www.linkedin.com/in/md-sohail-alam-547513243/" height="20" width="20" /></a>
-   <a href="https://twitter.com/@its_sohailalam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@its_sohailalam" height="20" width="20" /></a>
-   <a href="https://www.facebook.com/sohailalam6027" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png" alt="facebook.com/sohailalam6027" height="20" width="20" /></a>
-   <a href="https://instagram.com/sohailalam6027" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sohailalam6027" height="20" width="20" /></a>
-</p>
+<div align="left">
+    <a href="https://www.linkedin.com/in/md-sohail-alam-547513243/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    </a>
+<a href="https://twitter.com/@its_sohailalam" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+</a>
+<a href="https://www.facebook.com/sohailalam6027" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+</a>
+<a href="mailto:sohailalam6027@gmail.com" class="email" title="Email" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+</a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+</div>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
 
-   <!-- Core Frontend -->
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="text-decoration: none;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
          width="30" height="30" alt="HTML5" />
@@ -143,6 +152,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
          width="30" height="30" alt="GraphQL" />
    </a>
+<br>
+<br>
 
    <!-- Cloud & Deployment -->
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
@@ -188,7 +199,7 @@
    </a>
 </div>
 <br>
-<br>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=BeWithSohail&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BeWithSohail&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
