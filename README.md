@@ -1,6 +1,16 @@
 <img src="https://bewithsohail.netlify.app/assets/img/md_sohail_alam.jpg" height="450" align="center" width=100% style="object-fit:contain;">
-<h3 align="center">Hi People. I am Sohail</h3>
-<h6 align="justify">A passionate Frontend Developer 🚀 having 5+ Yrs of working Experience and special interest in Frontend technologies and experience of building Web applications with JavaScript / ReactJS / Next JS / MongoDB / JSON / Ajax / Node JS / jQuery / HTML5 / CSS/CSS3 / BootStrap / SASS / Tailwind / Bulma / Foundation / WordPress and some other cool libraries and frameworks.</h6>
+<h3 align="left">Hi People. I am Sohail</h3>
+<p align="justify" style="font-weight:bold;">
+
+A passionate Frontend / UI Developer 🚀 with 6+ years of experience, specializing in building high-performance, responsive, and scalable web applications.
+<em>
+Proficient in JavaScript (ES6+), TypeScript, React.js, Next.js, Redux Toolkit, GraphQL, and frontend technologies including HTML5, CSS3, SASS/LESS, Bootstrap, Tailwind, Material UI, Chakra UI, Bulma, and Foundation.
+
+Experienced with Node.js, MongoDB, SQL, PostgreSQL, and skilled in AJAX, JSON, and asynchronous data handling.
+
+Passionate about clean, maintainable code, optimized performance, responsive design, and best UI/UX practices, leveraging modern libraries and frameworks to deliver cutting-edge web solutions
+</em>
+</p>
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align="right" width=400>
 </p>
 <br />
